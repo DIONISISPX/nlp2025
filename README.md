@@ -15,7 +15,7 @@ Prerequisites
 Installation Steps:
 
 1.  Κλωνοποιήστε το αποθετήριο:
-    git clone 
+    git clone https://github.com/DIONISISPX/nlp2025.git
     cd nlp
 
 2.  Δημιουργήστε και ενεργοποιήστε το περιβάλλον Conda:
