@@ -7,7 +7,7 @@ Setup and Installation
 
 Για την εκτέλεση, ακολουθήστε τα παρακάτω βήματα.
 
-Prerequisites
+Prerequisites:
 * [Conda](https://www.anaconda.com/products/distribution)
 * Python >= 3.11
 * [Poetry](https://python-poetry.org/)
@@ -16,16 +16,17 @@ Installation Steps:
 
 1.  Κλωνοποιήστε το αποθετήριο:
     git clone https://github.com/DIONISISPX/nlp2025.git
+    
     cd nlp
 
-2.  Δημιουργήστε και ενεργοποιήστε το περιβάλλον Conda:
+3.  Δημιουργήστε και ενεργοποιήστε το περιβάλλον Conda:
     conda create -name nlp python=3.11
     conda activate nlp
 
-3.  Εγκαταστήστε τις εξαρτήσεις του έργου με το Poetry:
+4.  Εγκαταστήστε τις εξαρτήσεις του έργου με το Poetry:
     poetry install
 
-How to Run
+How to Run:
 
 Μπορείτε να εκτελέσετε τα πειράματα χρησιμοποιώντας τις παρακάτω εντολές από τον κύριο φάκελο του έργου ή με το περιβάλλον που επιθυμείτε (πχ VS Code).
 
